@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\taskmini11\taskmini11\bin\Debug\net8.0\taskmini11.exe
+C:\Users\HP\Desktop\taskmini11\taskmini11\bin\Debug\net8.0\taskmini11.deps.json
+C:\Users\HP\Desktop\taskmini11\taskmini11\bin\Debug\net8.0\taskmini11.runtimeconfig.json
+C:\Users\HP\Desktop\taskmini11\taskmini11\bin\Debug\net8.0\taskmini11.dll
+C:\Users\HP\Desktop\taskmini11\taskmini11\bin\Debug\net8.0\taskmini11.pdb
+C:\Users\HP\Desktop\taskmini11\taskmini11\obj\Debug\net8.0\taskmini11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\taskmini11\taskmini11\obj\Debug\net8.0\taskmini11.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\taskmini11\taskmini11\obj\Debug\net8.0\taskmini11.AssemblyInfo.cs
+C:\Users\HP\Desktop\taskmini11\taskmini11\obj\Debug\net8.0\taskmini11.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\taskmini11\taskmini11\obj\Debug\net8.0\taskmini11.sourcelink.json
+C:\Users\HP\Desktop\taskmini11\taskmini11\obj\Debug\net8.0\taskmini11.dll
+C:\Users\HP\Desktop\taskmini11\taskmini11\obj\Debug\net8.0\refint\taskmini11.dll
+C:\Users\HP\Desktop\taskmini11\taskmini11\obj\Debug\net8.0\taskmini11.pdb
+C:\Users\HP\Desktop\taskmini11\taskmini11\obj\Debug\net8.0\taskmini11.genruntimeconfig.cache
+C:\Users\HP\Desktop\taskmini11\taskmini11\obj\Debug\net8.0\ref\taskmini11.dll
